@@ -31,3 +31,20 @@ Customers may have a need to modify the type system that they have created after
 ## Create New Annotation Task to Pick up New Entity Type & Annotation Continuation
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/4-modificationtypetaskresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/5_inprogressannotateresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/6_selectannotationdocresize.png)
+
+## Continuation of Annotation – Add Mention of Entity Type Person
+
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/7-MENTIONTYPERESIZE.png)
+
+## Submit All Annotations for Review & Accept as Ground Truth
+
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/7-MENTIONTYPERESIZE.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/8_submitannotationsresize.png)
+
+## Train & Evaluate
+
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/8_trainingtestblindsetsresize.png)
+
+
