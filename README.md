@@ -47,4 +47,7 @@ Customers may have a need to modify the type system that they have created after
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/8_trainingtestblindsetsresize.png)
 
+## Train & Evaluate
+
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/9_mlmodelevalresize.png)
 
