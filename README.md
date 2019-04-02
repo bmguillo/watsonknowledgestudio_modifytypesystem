@@ -20,5 +20,10 @@ Customers may have a need to modify the type system that they have created after
 
 ## Modification of Type System for Continuous Training-Adding an Entity Type Person
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/2_entitytypes.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/1_addentitytypesizing.png)
+
+## Create New Annotation Set for Existing Annotated Documents
+
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/2_createannotationsetsresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/3a_modificationtypesystemresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/3b_documentlistresize.png)
