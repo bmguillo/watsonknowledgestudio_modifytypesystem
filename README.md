@@ -62,5 +62,5 @@ Customers may have a need to modify the type system that they have created after
 
 Apply Type System Updates (Quick Method)
 
-•	After modification of type system by adding entity type, edit existing annotation task, then click [apply type system](https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-improve-ml#improve-ml)updates and proceed with remainder of steps above
+- After modification of type system by adding entity type, edit existing annotation task, then click [apply type system](https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-improve-ml#improve-ml) updates and proceed with remainder of steps above
 
