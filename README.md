@@ -7,7 +7,7 @@ The objective of this tutorial is part 2 of a previous tutorial which is to edit
 ## Prerequisites
 
 - IBM Cloud account: If you do not have an IBM Cloud account, you can create an account [here](https://cloud.ibm.com/)
-- Provision a Watson Knowledge Studio [instance](https://cloud.ibm.com/catalog/services/knowledge-studio?hideTours=true&?cm_sp=WatsonPlatform-WatsonPlatform-_-OnPageNavCTA-IBMWatson_Discovery-_-Watson_Developer_Website) within IBM Cloud & creation of a workspace.
+- Provision a Watson Knowledge Studio[instance](https://cloud.ibm.com/catalog/services/knowledge-studio?hideTours=true&?cm_sp=WatsonPlatform-WatsonPlatform-_-OnPageNavCTA-IBMWatson_Discovery-_-Watson_Developer_Website) within IBM Cloud & creation of a workspace.
 - Basic knowledge of Watson Knowledge Studio process workflow & creation of roles by viewing [docs](https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutintro#wks_tokenizer).
 
 ## Estimated Time
@@ -19,3 +19,6 @@ It is recommended to annotate a variety of a large set of documents for greater 
 Customers may have a need to modify the type system that they have created after they have deployed their model to NLU as a continuous training/testing practice for greater optimization and accuracy of the model.
 
 ## Modification of Type System for Continuous Training-Adding an Entity Type Person
+
+![test](https://github.com/bmguillo/watsonknowledgestudio_nludeploy/blob/master/img/2_entitytypes.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/1_addentitytypesizing.png)
