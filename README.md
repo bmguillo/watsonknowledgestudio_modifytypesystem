@@ -24,41 +24,41 @@ Customers may have a need to modify the type system that they have created after
 
 ## Create New Annotation Set for Existing Annotated Documents
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/2_createannotationsetsresize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/3a_modificationtypesystemresize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/3b_documentlistresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master//img/2_createannotationsetsresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master//img/3a_modificationtypesystemresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/3b_documentlistresize.png)
 
 ## Create New Annotation Task to Pick up New Entity Type & Annotation Continuation
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/4-modificationtypetaskresize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/5_inprogressannotateresize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/6_selectannotationdocresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/4-modificationtypetaskresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/5_inprogressannotateresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/6_selectannotationdocresize.png)
 
 ## Continuation of Annotation – Add Mention of Entity Type Person
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/7-MENTIONTYPERESIZE.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/7-MENTIONTYPERESIZE.png)
 
 ## Submit All Annotations for Review & Accept as Ground Truth
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/7-MENTIONTYPERESIZE.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/8_submitannotationsresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/7-MENTIONTYPERESIZE.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/8_submitannotationsresize.png)
 
 ## Train & Evaluate
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/8_trainingtestblindsetsresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/8_trainingtestblindsetsresize.png)
 
 ## Train & Evaluate
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/9_mlmodelevalresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/9_mlmodelevalresize.png)
 
 ## Take Snapshot ( if pleased with results and plan on doing workspace revisions later, re-training and re-evaluation of model)
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/10_snapshotscreenresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/10_snapshotscreenresize.png)
 
 ## Deploy to NLU
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/10_deploymodelinforesize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/12_twomodelsdeployedtoNLUresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/10_deploymodelinforesize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/12_twomodelsdeployedtoNLUresize.png)
 
 ## Apply Type System Updates (Quick Method)
 
