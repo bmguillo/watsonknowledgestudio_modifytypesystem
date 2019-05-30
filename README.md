@@ -36,7 +36,7 @@ Customers may have a need to modify the type system that they have created after
 
 ## Continuation of Annotation – Add Mention of Entity Type Person
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/7-MENTIONTYPERESIZE.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/7-MENTIONTYPERESIZE.png)
 
 ## Submit All Annotations for Review & Accept as Ground Truth
 
