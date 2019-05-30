@@ -41,7 +41,7 @@ Customers may have a need to modify the type system that they have created after
 ## Submit All Annotations for Review & Accept as Ground Truth
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/7_groundtruthresize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/8_submitannotationsresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/8_submitannotationsresize.png)
 
 ## Train & Evaluate
 
