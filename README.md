@@ -30,7 +30,7 @@ Customers may have a need to modify the type system that they have created after
 
 ## Create New Annotation Task to Pick up New Entity Type & Annotation Continuation
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/4-modificationtypetaskresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/4-modificationtypetaskresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/5_inprogressannotateresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/6_selectannotationdocresize.png)
 
