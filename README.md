@@ -58,7 +58,7 @@ Customers may have a need to modify the type system that they have created after
 ## Deploy to NLU 
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/10_deploymodelinforesize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/12_twomodelsdeployedtoNLUresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/12_twomodelsdeployedtoNLUresize.pngg)
 
 ## Apply Type System Updates (Quick Method)
 
