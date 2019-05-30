@@ -40,7 +40,7 @@ Customers may have a need to modify the type system that they have created after
 
 ## Submit All Annotations for Review & Accept as Ground Truth
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/7-MENTIONTYPERESIZE.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/7_groundtruthresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/8_submitannotationsresize.png)
 
 ## Train & Evaluate
@@ -55,7 +55,7 @@ Customers may have a need to modify the type system that they have created after
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/10_snapshotscreenresize.png)
 
-## Deploy to NLU
+## Deploy to NLU 
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/10_deploymodelinforesize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/12_twomodelsdeployedtoNLUresize.png)
