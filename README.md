@@ -49,7 +49,7 @@ Customers may have a need to modify the type system that they have created after
 
 ## Train & Evaluate
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/9_mlmodelevalresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/9_mlmodelevalresize.png)
 
 ## Take Snapshot ( if pleased with results and plan on doing workspace revisions later, re-training and re-evaluation of model)
 
