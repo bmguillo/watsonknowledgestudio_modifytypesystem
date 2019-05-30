@@ -24,8 +24,8 @@ Customers may have a need to modify the type system that they have created after
 
 ## Create New Annotation Set for Existing Annotated Documents
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master//img/2_createannotationsetsresize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master//img/3a_modificationtypesystemresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/2_createannotationsetsresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/3a_modificationtypesystemresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/3b_documentlistresize.png)
 
 ## Create New Annotation Task to Pick up New Entity Type & Annotation Continuation
