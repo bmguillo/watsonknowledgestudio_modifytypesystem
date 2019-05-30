@@ -32,7 +32,7 @@ Customers may have a need to modify the type system that they have created after
 
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/4-modificationtypetaskresize.png)
 ![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/5_inprogressannotateresize.png)
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/6_selectannotationdocresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/6_selectannotationdocresize.png)
 
 ## Continuation of Annotation – Add Mention of Entity Type Person
 
