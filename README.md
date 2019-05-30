@@ -53,7 +53,7 @@ Customers may have a need to modify the type system that they have created after
 
 ## Take Snapshot ( if pleased with results and plan on doing workspace revisions later, re-training and re-evaluation of model)
 
-![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/tree/master/img/10_snapshotscreenresize.png)
+![test](https://github.com/bmguillo/watsonknowledgestudio_modifytypesystem/blob/master/img/10_snapshotscreenresize.png)
 
 ## Deploy to NLU 
 
